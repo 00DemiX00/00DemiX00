@@ -5,4 +5,4 @@
 
 Here are some ideas to get you started:
 
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+!
