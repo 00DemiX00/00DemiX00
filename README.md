@@ -1,8 +1,1 @@
-## Hi there 👋
-
-<!--
-**00DemiX00/00DemiX00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-!
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+My+name+is+Alex" alt="Typing SVG" /></a>
