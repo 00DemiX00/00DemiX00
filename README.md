@@ -31,9 +31,12 @@
 <table>
   <tr>
     <td>
+       <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=00DemiX00&theme=dark" alt="GitHub Streak"/>
+      </a>
     </td>
     <td style="vertical-align: bottom;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=00DemiX00&layout=compact&theme=dark" alt="Top Languages" style="margin-left: 20px;"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=00DemiX00&layout=compact&theme=dark" alt="Top Languages" style="margin-left: 20 px;"/>
     </td>
   </tr>
 </table>
