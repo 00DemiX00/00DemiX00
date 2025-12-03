@@ -31,17 +31,4 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Telegram Mini Apps](https://img.shields.io/badge/Telegram%20Mini%20Apps-%230099FF?style=for-the-badge&logo=telegram&logoColor=white)
 <hr>
-&#127919; GitHub Analytics:<br><br>
-<table>
-  <tr>
-    <td>
-       <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=00DemiX00&theme=dark" alt="GitHub Streak"/>
-      </a>
-    </td>
-    <td style="vertical-align: bottom;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=00DemiX00&layout=compact&theme=dark" alt="Top Languages" style="margin-left: 20 px;"/>
-    </td>
-  </tr>
-</table>
 
