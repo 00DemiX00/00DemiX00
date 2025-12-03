@@ -1,4 +1,6 @@
-<a href="https://git.io/typing-svg" target="_blank"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=400&lines=Alex+%E2%80%94+Frontend+Dev+%F0%9F%9A%80+%7C+Web+Creator" alt="Typing SVG" /> </a>
+<a href="https://git.io/typing-svg" target="_blank">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=400&lines=Alex+%E2%80%94+Frontend+Dev+%7C+Web+Creator" alt="Typing SVG" />
+</a>
 
 &#129513; Tech stack: <br><br>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
