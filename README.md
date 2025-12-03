@@ -30,5 +30,3 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Telegram Mini Apps](https://img.shields.io/badge/Telegram%20Mini%20Apps-%230099FF?style=for-the-badge&logo=telegram&logoColor=white)
-<hr>
-
